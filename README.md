@@ -1,4 +1,4 @@
-## The Food App is made with React JS using various other reacts concepts such as hooks, map, filter, react-icons.
+## The Food App is made with React JS and Tailwind CSS using various other reacts concepts such as hooks, map, filter, react-icons.
 
 ### First view
 ![food1](https://user-images.githubusercontent.com/76623158/210590196-dd27f185-8b22-4724-928b-7dc3a5b51e8e.jpg)
