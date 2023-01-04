@@ -9,4 +9,4 @@
 ## Also users can sort food items by the Price and also by the Names as -
 ![food3](https://user-images.githubusercontent.com/76623158/210590428-6a03e2db-18d1-40a3-ae7c-3f5a90e6355e.jpg)
 
-###And thats all of it 🏆
+### And thats all of it 🏆
